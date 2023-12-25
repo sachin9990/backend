@@ -8,8 +8,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
+  "type": "module",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [],
   "author": "",
